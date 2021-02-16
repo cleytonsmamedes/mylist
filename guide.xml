@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Mais Globosat ">
+    <display-name lang="pt">Mais Globosat </display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="BIS">
+    <display-name lang="pt">BIS</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Hbo Mundi">
+    <display-name lang="pt">Hbo Mundi</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="hBO Xtreme">
+    <display-name lang="pt">hBO Xtreme</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Arte 1">
+    <display-name lang="pt">Arte 1</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+</tv>
